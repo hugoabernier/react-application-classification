@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="ClassificationExtension"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="4017f67b-80c7-4631-b0e5-57bd266bc5c1"
+        ClientSideComponentProperties="{&quot;ClassificationPropertyBag&quot;:&quot;sc_x005f_BusinessImpact&quot;,&quot;DefaultClassification&quot;:&quot;&quot;,&quot;DefaultHandlingUrl&quot;:&quot;/SitePages/Handling-instructions.aspx&quot;}">
+    </CustomAction>
+</Elements>

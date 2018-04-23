@@ -1,0 +1,25 @@
+{
+    "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+    "solution": {
+        "name": "classification-extension-client-side-solution",
+        "id": "7d165d19-f0b6-44c7-8abe-adeeb19816ac",
+        "version": "1.3.0.0",
+        "includeClientSideAssets": true,
+        "features": [
+            {
+                "title": "Application Extension - Deployment of custom action.",
+                "description": "Deploys a custom action with ClientSideComponentId association",
+                "id": "bc63a6d6-54bd-4237-848b-4c2cf2e378d4",
+                "version": "1.0.0.0",
+                "assets": {
+                    "elementManifests": [
+                        "elements.xml"
+                    ]
+                }
+            }
+        ]
+    },
+    "paths": {
+        "zippedPackage": "solution/classification-extension.sppkg"
+    }
+}
