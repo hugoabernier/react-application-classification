@@ -4,7 +4,7 @@
 
 A SharePoint Framework application customizer showing how to display a site's information security classification on every page, reading for the site's property bags.
 
-![Information Security Classification Application Customizer](./assets/Classification-Header.png)
+![Information Security Classification Application Customizer](./assets/ClassificationHeader.png)
 
 ## Used SharePoint Framework Version
 
